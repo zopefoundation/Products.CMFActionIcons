@@ -1,0 +1,3 @@
+graft Products
+include *txt
+global-exclude *.pyc
